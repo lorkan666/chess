@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LChess.Linux", "LChess.Linux\LChess.Linux.csproj", "{BEC0DED6-5C1A-480E-B462-33F274E1446F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC0DED6-5C1A-480E-B462-33F274E1446F}.Debug|x86.ActiveCfg = Debug|x86
+		{BEC0DED6-5C1A-480E-B462-33F274E1446F}.Debug|x86.Build.0 = Debug|x86
+		{BEC0DED6-5C1A-480E-B462-33F274E1446F}.Release|x86.ActiveCfg = Release|x86
+		{BEC0DED6-5C1A-480E-B462-33F274E1446F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = LChess.Linux\LChess.Linux.csproj
+	EndGlobalSection
+EndGlobal
